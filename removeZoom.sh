@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # This program will uninstall zoom
+# Created by Chase Garcia
 
 #################
 ### Variables ###
